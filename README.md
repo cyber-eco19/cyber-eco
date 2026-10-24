@@ -8,9 +8,9 @@ I also enjoy building creative technical projects.
 
 ## My Project
 
-### RJ Juice — Bangladesh from the Sky
+### AIR J64 
 
-RJ Juice is a 3D sightseeing flight game where players fly a private jet across the 64 districts of Bangladesh.
+AIR J64 is a 3D sightseeing flight game where players fly a private jet across the 64 districts of Bangladesh.
 
 The project includes:
 
